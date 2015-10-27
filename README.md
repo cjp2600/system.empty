@@ -16,7 +16,7 @@
     }
   },
   "require": {
-    "cjp2600/composite.shape": ">=0.0.1"
+    "cjp2600/system.empty": ">=0.0.1"
   }
 }
 ```
